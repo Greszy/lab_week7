@@ -1,4 +1,4 @@
-# Cybersecurity Lab 7 - *wp053* 
+# Cybersecurity Lab 7 - *WordPress Pentesting Setup* 
 
 Time spent: **10** hours spent in total 
 
