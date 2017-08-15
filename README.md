@@ -13,12 +13,12 @@ The following **required** functionality is completed:
 5. [X]  Required: Challenge 4 - Looking Under the Hood
 6. [X]  Required: Challenge 5 - Casing the Joint
 7. [X]  Required: Challenge 6 - WordPress Time Machine
-8. [X]  Required: Challenge 7 - wpscan vs. WP 4.2
+8. []  Required: Challenge 7 - wpscan vs. WP 4.2
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walk7_lab.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
